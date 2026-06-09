@@ -1,0 +1,16 @@
+class Solution {
+    public boolean isPalindrome(int x) {
+        int temp=x;
+        if(x<0) return false;
+        if(x==0) return true;
+        StringBuilder sb = new StringBuilder();
+        while(temp>0){
+            int a=0;
+            int r=temp%10;
+            a=a*10+r;
+            temp=temp/10; 
+            sb.append(r);
+        }
+        return sb.toString().equals(String.valueOf(x));
+    }
+}
