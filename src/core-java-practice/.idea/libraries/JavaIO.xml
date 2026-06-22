@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JavaIO">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Scenario-based/JavaIO.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
