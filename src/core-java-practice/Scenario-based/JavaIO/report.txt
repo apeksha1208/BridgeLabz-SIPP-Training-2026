@@ -1,3 +1,0 @@
-Apeksha Average = 85
-Rahul Average = 75
-Priya Average = 92
