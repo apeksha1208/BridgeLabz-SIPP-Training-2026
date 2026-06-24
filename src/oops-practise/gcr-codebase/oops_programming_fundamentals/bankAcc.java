@@ -1,3 +1,5 @@
+package oops_programming_fundamentals;
+
 public class bankAcc {
     int accNumber;
     String holder;
@@ -33,7 +35,7 @@ public class bankAcc {
         System.out.println(balance);
     }
 }
- class Main{
+ class main{
      public static void main(String[] args) {
          bankAcc ba= new bankAcc(1234,"apeksha",2800);
          bankAcc bb = new bankAcc(4567,"vaishnavi",780);

@@ -1,3 +1,5 @@
+package oops_programming_fundamentals;
+
 public class drone {
     int droneId;
     int batteryPercentage;
@@ -15,7 +17,7 @@ public class drone {
         System.out.println(companyName);
     }
 }
-class main{
+class MainDrone{
     public static void main(String[] args) {
         drone d1 = new drone(102,98);
         drone d2 = new drone(112,29);
