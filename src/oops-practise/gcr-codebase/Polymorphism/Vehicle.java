@@ -47,7 +47,6 @@ class MainTransport{
         Vehicle [] veh={car,bus,bike};
         for( Vehicle val:veh){
             System.out.println(val.fuelCost(1));
-
         }
     }
 }
