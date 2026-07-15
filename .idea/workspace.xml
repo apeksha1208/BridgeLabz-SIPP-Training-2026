@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="409c8443-13a0-4bc6-b098-1aabb6fb9050" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/core-java-practice/Scenario-based/JavaIO/ExpenseLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/Scenario-based/JavaIO/ExpenseLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/Scenario-based/JavaIO/Feedback.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/Scenario-based/JavaIO/Feedback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/Scenario-based/JavaIO/feedback.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/Scenario-based/JavaIO/feedback.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/Scenario-based/JavaIO/report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/Scenario-based/JavaIO/report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/Scenario-based/JavaIO/schoolPortal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/Scenario-based/JavaIO/schoolPortal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/Scenario-based/JavaIO/students.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/Scenario-based/JavaIO/students.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Arrays/level1/limit10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Arrays/level1/VotingAge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Arrays/level1/multi_table6to9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Arrays/level1/TableSixToNine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Arrays/level1/multiplication_table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Arrays/level1/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Arrays/level1/positive_negative_zero_even_odd_comaprefirstlast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Arrays/level1/NumberCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Arrays/level1/store_numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Arrays/level1/SumNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Arrays/level2/bonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Arrays/level2/EmployeeBonus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Arrays/level2/dynamic_arr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Arrays/level2/dynamic_arr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Arrays/level2/largest_smallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Arrays/level2/largest_smallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Arrays/level2/reverse_num.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Arrays/level2/reverse_num.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Arrays/level2/youngest_tallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Arrays/level2/youngest_tallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/ExceptionHandling/CheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/ExceptionHandling/CheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/ExceptionHandling/MultipleCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/ExceptionHandling/MultipleCatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/ExceptionHandling/TryWithResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/ExceptionHandling/TryWithResources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/ExceptionHandling/UncheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/ExceptionHandling/UncheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/level1/AthleteRounds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Methods/level1/AthleteRounds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/level1/Handshakes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Methods/level1/Handshakes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/level1/PositiveNegativeZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Methods/level1/PositiveNegativeZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/level1/SimpleInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Methods/level1/SimpleInterest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/level1/SpringSeason.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Methods/level1/SpringSeason.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/level1/SumNaturalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Methods/level1/SumNaturalNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/level2/FactorsAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Methods/level2/FactorsAnalysis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/level2/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Methods/level2/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/level2/RecursiveNaturalSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Methods/level2/RecursiveNaturalSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/level2/UnitConverterDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Methods/level2/UnitConverterDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/level2/UnitConverterLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Methods/level2/UnitConverterLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/level2/UnitConverterTemperatureWeightVolume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Methods/level2/UnitConverterTemperatureWeightVolume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/level3/FactorOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Methods/level3/FactorOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/level3/FootballTeamStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Methods/level3/FootballTeamStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/level3/NumberChecker1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Methods/level3/NumberChecker1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/level3/NumberChecker2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Methods/level3/NumberChecker2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/level3/NumberChecker3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Methods/level3/NumberChecker3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/level3/NumberChecker4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Methods/level3/NumberChecker4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/level3/NumberChecker5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Methods/level3/NumberChecker5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/level3/OTPGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Methods/level3/OTPGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Strings/level1/all_Characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Strings/level1/all_Characters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Strings/level1/compare_strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Strings/level1/compare_strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Strings/level1/indexOutOfBounds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Strings/level1/indexOutOfBounds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Strings/level1/nullPointerException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Strings/level1/nullPointerException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Strings/level1/substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Strings/level1/substring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Strings/level2/length.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Strings/level2/length.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Strings/level2/shortest_longest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Strings/level2/shortest_longest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Strings/level2/splitAndCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Strings/level2/splitAndCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Strings/level2/vowelsConsants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Strings/level2/vowelsConsants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Strings/level2/words_length.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Strings/level2/words_length.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Strings/level3/ASCII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Strings/level3/ASCII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Strings/level3/BMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Strings/level3/BMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Strings/level3/Unique_chars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Strings/level3/Unique_chars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Strings/level3/freq_chars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Strings/level3/freq_chars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Strings/level3/nonrepeatChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/Strings/level3/nonrepeatChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level1/countdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level1/countdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level1/countdown_while.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level1/countdown_while.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level1/divisible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level1/divisible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level1/naturalNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level1/naturalNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level1/numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level1/numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level1/season.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level1/season.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level1/smallestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level1/smallestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level1/voting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level1/voting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level2/employees_bonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level2/employees_bonus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level2/find_factor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level2/find_factor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level2/fizBuzz.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level2/fizBuzz.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level2/fizzBuzz_while.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level2/fizzBuzz_while.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level2/multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level2/multiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level2/oddAndEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level2/oddAndEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level2/youngestAndTallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level2/youngestAndTallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level3/armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level3/armstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level3/count digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level3/count digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level3/leaf_year_singleif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level3/leaf_year_singleif.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level3/leap_year.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level3/leap_year.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level3/percentage_marks_remarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level3/percentage_marks_remarks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/controlFlow/level3/prime_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/controlFlow/level3/prime_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level1/age.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level1/age.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level1/area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level1/area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level1/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level1/calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level1/discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level1/discount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level1/discount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level1/discount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level1/distance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level1/distance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level1/fees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level1/fees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level1/handshake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level1/handshake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level1/height.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level1/height.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level1/kmtom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level1/kmtom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level1/marks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level1/marks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level1/pens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level1/pens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level1/perimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level1/perimeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level1/profit_loss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level1/profit_loss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level1/purchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level1/purchase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level1/volume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level1/volume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level1/yards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level1/yards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level2/Airthmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level2/Airthmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level2/Area_triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level2/Area_triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level2/Doubleoperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level2/Doubleoperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level2/Intoperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level2/Intoperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level2/distance_yards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level2/distance_yards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level2/purchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level2/purchase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level2/quotient_remainder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level2/quotient_remainder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/level2/side_square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/programming-elements/level2/side_square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/recursion/FactorialRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/recursion/FactorialRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/recursion/PalindromeRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/recursion/PalindromeRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/recursion/PrintNTo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/recursion/PrintNTo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/recursion/ReverseStringRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/recursion/ReverseStringRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/gcr-codebase/recursion/SumNaturalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/gcr-codebase/recursion/SumNaturalNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/leet-code-codebase/fizzBuzz" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/leet-code-codebase/fizzBuzz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/leet-code-codebase/noOfSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/leet-code-codebase/noOfSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/leet-code-codebase/palindrome" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/leet-code-codebase/palindrome" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/leet-code-codebase/revInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/leet-code-codebase/revInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/leet-code-codebase/romanToNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/leet-code-codebase/romanToNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java-practice/leet-code-codebase/subtractAndSum" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-java-practice/leet-code-codebase/subtractAndSum" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3FNjwYdh0SDHsM6C677VUtLbWFw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EmployeeBonus.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "core-java-practice",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Naitik\Desktop\BridgeLabz-SIPP-Training-2026\src" />
+      <recent name="C:\Users\Naitik\Desktop\BridgeLabz-SIPP-Training-2026" />
+      <recent name="C:\Users\Naitik\Desktop\BridgeLabz-SIPP-Training-2026\.idea" />
+      <recent name="C:\Users\Naitik\Desktop\BridgeLabz-SIPP-Training-2026\OOPS" />
+      <recent name="C:\Users\Naitik\Desktop\BridgeLabz-SIPP-Training-2026\OOPS\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EmployeeBonus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmployeeBonus" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EmployeeBonus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="409c8443-13a0-4bc6-b098-1aabb6fb9050" name="Changes" comment="" />
+      <created>1781922659697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781922659697</updated>
+    </task>
+    <servers />
+  </component>
+</project>
