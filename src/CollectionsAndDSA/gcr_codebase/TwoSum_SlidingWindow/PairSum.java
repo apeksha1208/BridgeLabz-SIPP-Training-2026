@@ -1,4 +1,4 @@
-package Sliding_Window;
+package TwoSum_SlidingWindow;
 
 public class PairSum {
     public static int[] pairSum(int[] arr, int target) {
