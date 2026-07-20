@@ -1,5 +1,4 @@
-package Tree;
-import java.util.*;
+package Trees;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
